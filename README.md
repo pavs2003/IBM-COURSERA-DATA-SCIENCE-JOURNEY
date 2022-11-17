@@ -10,23 +10,23 @@ Specialization Course Link: [https://www.coursera.org/professional-certificates/
 There are 10 Courses in this Professional Certificate
 The courses enlisted in this specialization are as follows:
 
- What is Data Science? Go To Course
+ What is Data Science? 
 
- Tools for Data Science Go To Course
+ Tools for Data Science 
 
- Data Science Methodology Go To Course
+ Data Science Methodology 
 
- Python for Data Science, AI & Development Go To Course
+ Python for Data Science, AI & Development 
 
- Python Project for Data Science Go To Course
+ Python Project for Data Science Go 
 
- Databases and SQL for Data Science with Python Go To Course
+ Databases and SQL for Data Science with Python 
 
- Data Analysis with Python Go To Course
+ Data Analysis with Python 
 
- Data Visualization with Python Go To Course
+ Data Visualization with Python 
 
- Machine Learning with Python Go To Course
+ Machine Learning with Python 
 
- Applied Data Science Capstone Go To Course
+ Applied Data Science Capstone
 
